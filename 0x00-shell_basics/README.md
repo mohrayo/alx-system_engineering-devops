@@ -12,3 +12,4 @@
 11-lists -a script that list all files in current and parent directory
 12- a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory\n
 13-symbolic_link - a symbolic link to /bin/ls, named __ls__\n
+14-copy_html - copy all html files
